@@ -1,0 +1,14 @@
+layout_spectrum: 0.5184623347595334
+typography_spectrum: 0.7042739735916257
+color:
+  brandStrength: 0.12007436412386596
+  lightness: 0.0813091523014009
+  saturation: 0.8509144242852926
+  rhythmicContrast: 0.8642469972837716
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: EVOLUTION.DARWIN
